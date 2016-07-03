@@ -1,6 +1,6 @@
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
-from util import scale, map_scale, map_value, scale_offsets, str_scale
+from piHud.util import scale, map_scale, map_value, scale_offsets, str_scale
 
 class Gauge(QWidget):
     def __init__(self, parent, config):
