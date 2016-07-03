@@ -1,0 +1,3 @@
+[submodule "XPlaneUdp"]
+	path = XPlaneUdp
+	url = https://github.com/charlylima/XPlaneUdp
